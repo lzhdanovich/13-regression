@@ -38,6 +38,7 @@
 4aac896c-47c6-4e82-8ebd-ad1e5e07fde3,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A",Calculator
 521db753-eaf6-4e98-b07b-322baa0e2b3e,Lookup Approval Level 1 [Discount],false,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,Calculator
 52ec6437-ed32-4824-8a0e-35b8172aa94c,**Prodly Price Rule,true,"#N/A",Any,"#N/A",On Calculate,"#N/A",SBQQ__LookupData__c,Calculator
+5462dded-98a9-4f0a-9c90-6f69f4f8c3e8,lz1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
 578a2d23-fdb0-4e42-af6a-edef22e7b978,Test Rule,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
 580e63f1-6677-4a70-b017-89ec125b7c6d,Calculate Tax at Order/Invoice,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 59ee5591-c6ce-4a7a-af2e-eb69c2179600,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A",Calculator
