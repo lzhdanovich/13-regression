@@ -1,14 +1,2 @@
 "Guid","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__Price__c","SBQQ__UpperBound__c"
-092e9faf-2505-4b92-932a-e12c2ab0cb42,relatedRule1,"#N/A","#N/A","#N/A","#N/A","#N/A"
 16fe2b5b-f333-4d17-bcae-92cff85b1086,new,"#N/A","#N/A","#N/A","#N/A","#N/A"
-1fc259d0-98a9-4f28-979b-4226b3e146a7,Block P2,"#N/A",2.0,"#N/A","#N/A",10.0
-2cd4ef6a-83e4-461e-84bc-2ad02e2d5a13,12.16REGRESSION,"#N/A","#N/A","#N/A","#N/A","#N/A"
-2f996986-ea6a-4af6-b7f4-5206e1538412,new,"#N/A","#N/A","#N/A","#N/A","#N/A"
-345d569c-bd8c-4ad4-baa5-ecf50f86783c,testBlockPrice_edit123,"#N/A","#N/A","#N/A","#N/A","#N/A"
-4fc0bbc2-446f-407b-8399-edf9d078a7f0,12.14ATHENA,"#N/A","#N/A","#N/A","#N/A","#N/A"
-7c6a8b22-b40a-485e-8afc-93066e144937,test2,"#N/A","#N/A","#N/A","#N/A","#N/A"
-9ed3347c-8a0e-484d-bba9-0b6bba3acad7,BlockP1,"#N/A",10.0,"#N/A",10.0,50.0
-c271a51a-8dd3-4a49-8617-c9df469f02da,testBlockPrice1_edit,"#N/A","#N/A","#N/A","#N/A","#N/A"
-d6d26e03-5217-4e7a-9ba3-7cba7ea70344,relatedRule2,"#N/A","#N/A","#N/A","#N/A","#N/A"
-dac76387-8c79-4c93-9dd4-a8d0c611fdff,testBlockPrice2_edit,"#N/A","#N/A","#N/A","#N/A","#N/A"
-e6771ca4-189c-461a-866f-ef1acc2cd9a2,12.16test,"#N/A","#N/A","#N/A","#N/A","#N/A"
